@@ -1,5 +1,5 @@
-package Calculator package;
-public class calculator1{
+package Calculator;
+public class calculator{
     public double addition(double a, double b){
         return (a+b);
     }
